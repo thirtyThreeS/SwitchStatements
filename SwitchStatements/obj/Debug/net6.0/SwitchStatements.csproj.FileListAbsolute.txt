@@ -1,0 +1,15 @@
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\bin\Debug\net6.0\SwitchStatements.exe
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\bin\Debug\net6.0\SwitchStatements.deps.json
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\bin\Debug\net6.0\SwitchStatements.runtimeconfig.json
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\bin\Debug\net6.0\SwitchStatements.dll
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\bin\Debug\net6.0\ref\SwitchStatements.dll
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\bin\Debug\net6.0\SwitchStatements.pdb
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.AssemblyInfo.cs
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.dll
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\ref\SwitchStatements.dll
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.pdb
+C:\Users\thaum\source\repos\SwitchStatements\SwitchStatements\obj\Debug\net6.0\SwitchStatements.genruntimeconfig.cache
